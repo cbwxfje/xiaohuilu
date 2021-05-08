@@ -11,3 +11,4 @@ modify by morann2021
 test originssh login
 unp online master
 unp by other author
+auto 
